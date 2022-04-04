@@ -1,0 +1,3 @@
+Notebooks Workflow | Creating database
+
+Coin Gecko API >> Finding top 50 >> preOperations >> csv_final_prep 
